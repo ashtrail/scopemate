@@ -1,6 +1,13 @@
 # ScopeMate
 
-Quick scope estimation tool.
+This is quick scope estimation tool, it was mostly thought for game jams but it might come in handy for other kinds of projects too.
+
+ScopeMate serves two major purposes :
+
+- Avoid overlooking the real quantity of work (in time) required by a feature or by the fact of multiplying it (for instance adding a second playable character)
+- Have a better idea of the work load by discipline. For example if you are working on a project with a programmer and an artist you should aim for a 50-50 repartition of work (so ~50% of the work required should be graphical and the other ~50% development). With this tool you can avoid laying a disproportionate amount of the work load on the different members of the team by adjusting the scope of the game thanks to estimations.
+
+The intended use is to estimate the scope of a project idea and adjust it if it seems unbalanced. You can also check the time gain of different approaches. For example if making a colored sprite takes you an hour and making a black and white one takes you only thirty minutes, you can check how much time you would gain or lose on the entire project depending on which option you choose.
 
 ## Usage
 
